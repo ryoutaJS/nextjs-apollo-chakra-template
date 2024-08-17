@@ -1,2 +1,1 @@
-# nextjs-apollo-chakra-template
-Next.js x Apollo x Chakra UI
+# Next.js x Apollo GraphQL Client x Chakra UI
